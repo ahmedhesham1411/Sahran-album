@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SahranAlbum</string>
+    <string name="Alex">Alex Music</string>
+    <string name="Blow">Blow Your Mind</string>
+    <string name="Aua">Auc Lipa</string>
+    <string name="one">0.25</string>
+    <string name="two">-0.25</string>
+    <string name="amr_diab">Amr Diab</string>
+    <string name="zy_manty">zy manty</string>
+    <string name="songs">Songs</string>
+    <string name="شش">البوم سهران</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
